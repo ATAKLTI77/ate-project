@@ -1,0 +1,18 @@
+http:
+    port: "8081"
+    
+    
+db:
+   http:
+      port: "3306"
+      host: "localhost"
+      username: "root"
+      password: "Naod@0626"
+      dbname: "mulesoft"
+email:
+  config:
+     host: "smtp.gmail.com"
+     port: "587"
+     user: "atakltib06@gmail.com"
+     password: "![Fib+UVup2Yzh6Vh68nARgg==]"
+
